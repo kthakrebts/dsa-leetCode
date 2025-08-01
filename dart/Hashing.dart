@@ -1,5 +1,5 @@
 void main() {
-  String str = "Yashashree";
+  String str = "Banana";
   String newStr = str.toLowerCase();
 
   Set<String> ch = {};
